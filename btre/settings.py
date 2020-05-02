@@ -25,7 +25,7 @@ SECRET_KEY = '1#xyv8d0c%b-gmo7wt+jmt1n+d!1anarqajb!v+m8)xp*+&#xq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dj-realestate-app.herokuapp.com']
 
 
 # Application definition
